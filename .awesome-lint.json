@@ -1,0 +1,16 @@
+{
+    "plugins": [
+        [
+            "remark-lint-maximum-line-length",
+            [
+                2,
+                120
+            ]
+        ]
+    ],
+    "rules": {
+        "awesome-license": "error",
+        "awesome-list-item": "error",
+        "no-dead-urls": "error"
+    }
+}
